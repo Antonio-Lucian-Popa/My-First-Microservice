@@ -6,6 +6,8 @@
 - Spring Data Jpa
 - PostgreSQL
 
+![alt text](./img/Schema.png)
+
 ![alt text](./img/Service-discovering-eureka-server.png)
 
 Spring Cloud Sleuth:
